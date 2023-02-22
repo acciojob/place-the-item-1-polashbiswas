@@ -4,7 +4,7 @@
 	background-color:orange;
 	width:50px;
 }
-.container{
+.holder{
 	display:flex;
 	background-color:blue;
 	padding:20px;
